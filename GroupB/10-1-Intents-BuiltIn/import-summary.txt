@@ -1,0 +1,115 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\workspace.xml
+* 10-1-Intents-BuiltIn.iml
+* app\
+* app\build.gradle
+* app\src\
+* app\src\main\
+* app\src\main\AndroidManifest.xml
+* app\src\main\java\
+* app\src\main\java\csu\
+* app\src\main\java\csu\matos\
+* app\src\main\java\csu\matos\intents_builtin\
+* app\src\main\java\csu\matos\intents_builtin\MainActivity.java
+* app\src\main\res\
+* app\src\main\res\drawable-hdpi\
+* app\src\main\res\drawable-hdpi\ic_launcher.png
+* app\src\main\res\drawable-mdpi\
+* app\src\main\res\drawable-mdpi\ic_launcher.png
+* app\src\main\res\drawable-xhdpi\
+* app\src\main\res\drawable-xhdpi\ic_launcher.png
+* app\src\main\res\drawable-xxhdpi\
+* app\src\main\res\drawable-xxhdpi\ic_launcher.png
+* app\src\main\res\layout\
+* app\src\main\res\layout\activity_main.xml
+* app\src\main\res\menu\
+* app\src\main\res\menu\main.xml
+* app\src\main\res\values-sw600dp\
+* app\src\main\res\values-sw600dp\dimens.xml
+* app\src\main\res\values-sw720dp-land\
+* app\src\main\res\values-sw720dp-land\dimens.xml
+* app\src\main\res\values-v11\
+* app\src\main\res\values-v11\styles.xml
+* app\src\main\res\values-v14\
+* app\src\main\res\values-v14\styles.xml
+* app\src\main\res\values\
+* app\src\main\res\values\dimens.xml
+* app\src\main\res\values\strings.xml
+* app\src\main\res\values\styles.xml
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* out\
+* out\production\
+* out\production\10-1-Intents-BuiltIn\
+* out\production\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn.apk
+* out\production\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn.unaligned.apk
+* out\production\10-1-Intents-BuiltIn\csu\
+* out\production\10-1-Intents-BuiltIn\csu\matos\
+* out\production\10-1-Intents-BuiltIn\csu\matos\intents_builtin\
+* out\production\10-1-Intents-BuiltIn\csu\matos\intents_builtin\BuildConfig.class
+* out\production\10-1-Intents-BuiltIn\csu\matos\intents_builtin\MainActivity.class
+* out\production\10-1-Intents-BuiltIn\csu\matos\intents_builtin\Manifest$permission.class
+* out\production\10-1-Intents-BuiltIn\csu\matos\intents_builtin\Manifest.class
+* out\production\10-1-Intents-BuiltIn\csu\matos\intents_builtin\R$attr.class
+* out\production\10-1-Intents-BuiltIn\csu\matos\intents_builtin\R$dimen.class
+* out\production\10-1-Intents-BuiltIn\csu\matos\intents_builtin\R$drawable.class
+* out\production\10-1-Intents-BuiltIn\csu\matos\intents_builtin\R$id.class
+* out\production\10-1-Intents-BuiltIn\csu\matos\intents_builtin\R$layout.class
+* out\production\10-1-Intents-BuiltIn\csu\matos\intents_builtin\R$menu.class
+* out\production\10-1-Intents-BuiltIn\csu\matos\intents_builtin\R$string.class
+* out\production\10-1-Intents-BuiltIn\csu\matos\intents_builtin\R$style.class
+* out\production\10-1-Intents-BuiltIn\csu\matos\intents_builtin\R.class
+* proguard-project.txt
+* settings.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:28.+
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

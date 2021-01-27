@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:1:1-22:12
+	package
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:2:5-24
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:6:6-20:19
+	android:label
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:7:9-45
+	android:theme
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:9:9-40
+activity#csu.matos.TestMyService1
+ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:12:13-65
+	android:name
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:11:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:16:27-74
+service#csu.matos.MyService1
+ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:19:9-46
+	android:name
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml:19:18-43
+uses-sdk
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\22-MyService11\app\src\main\AndroidManifest.xml

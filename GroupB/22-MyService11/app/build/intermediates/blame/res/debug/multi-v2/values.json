@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\22-MyService11\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\22-MyService11\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "58",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "280",
+                        "endColumns": "57",
+                        "endOffsets": "333"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\22-MyService11\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "19,71,125,177",
+                        "endColumns": "50,52,50,69",
+                        "endOffsets": "65,119,171,242"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,106,159,210",
+                        "endColumns": "50,52,50,69",
+                        "endOffsets": "101,154,205,275"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cis493.demos"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+7-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:7:5-8:16
+8        android:minSdkVersion="29"
+8-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:7:15-41
+9        android:targetSdkVersion="29" >
+9-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:7:5-8:16
+10    </uses-sdk>
+11
+12    <application
+12-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:10:5-27:19
+13        android:icon="@drawable/ic_launcher"
+13-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:11:9-45
+14        android:label="@string/app_name"
+14-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:12:9-41
+15        android:theme="@android:style/Theme.Holo.Light" >
+15-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:13:9-56
+16        <activity
+16-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:15:9-23:20
+17            android:name="cis493.demos.MyServiceDriver3"
+17-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:16:13-45
+18            android:label="@string/app_name" >
+18-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:17:13-45
+19            <intent-filter>
+19-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:18:13-22:29
+20                <action android:name="android.intent.action.MAIN" />
+20-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:19:17-69
+20-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:19:25-66
+21
+22                <category android:name="android.intent.category.LAUNCHER" />
+22-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:21:17-77
+22-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:21:27-74
+23            </intent-filter>
+24        </activity>
+25
+26        <service android:name="cis493.demos.MyService3" >
+26-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:25:9-26:19
+26-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-31\app\src\main\AndroidManifest.xml:25:18-43
+27        </service>
+28    </application>
+29
+30</manifest>

@@ -1,0 +1,4 @@
+#Thu Feb 20 15:26:43 GMT 2020
+base.0=C\:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\13-2-SQLDemo21\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

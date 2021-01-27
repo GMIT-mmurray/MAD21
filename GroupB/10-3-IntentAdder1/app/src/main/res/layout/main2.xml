@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="right|bottom"
+    android:layout_margin="10dp"
+    android:background="@android:color/transparent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff0000ff"
+        android:text="Activity2"
+        android:textColor="#ffffffff"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/etDataReceived"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Data reveived..." />
+
+    <Button
+        android:id="@+id/btnDone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Done - Callback" />
+
+</LinearLayout>

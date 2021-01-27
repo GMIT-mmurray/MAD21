@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupC\\22-MyService-21\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupC\\22-MyService-21\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupC\\22-MyService-21\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupC\\22-MyService-21\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupC\\22-MyService-21\\app\\build\\intermediates\\res\\merged\\release\\layout_main.xml.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupC\\22-MyService-21\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupC\\22-MyService-21\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupC\\22-MyService-21\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\22-MyService-31\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\22-MyService-31\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\22-MyService-31\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\22-MyService-31\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\22-MyService-31\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\22-MyService-31\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\22-MyService-31\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\22-MyService-31\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\22-MyService-31\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\22-MyService-31\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

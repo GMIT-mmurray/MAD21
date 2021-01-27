@@ -1,0 +1,4 @@
+#Tue Jan 22 21:19:28 GMT 2019
+base.0=C\:\\Users\\mmurray\\Downloads\\10-1-Intents-BuiltIn\\10-1-Intents-BuiltIn\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
