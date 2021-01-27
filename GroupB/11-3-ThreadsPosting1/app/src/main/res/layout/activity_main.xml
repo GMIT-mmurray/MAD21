@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="6dp" >
+
+    <TextView
+        android:id="@+id/lblTopCaption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:text=
+            "Some important data is being collected now. Patience please..." />
+
+    <ProgressBar
+        android:id="@+id/myBarHor"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <ProgressBar
+        android:id="@+id/myBarCir"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+        
+    <EditText
+        android:id="@+id/txtBox1"
+        android:layout_width="match_parent"
+        android:layout_height="78dp"
+        android:layout_margin="10dp"
+        android:background="#ffffffff"
+        android:textSize="18sp" />
+        <requestFocus/>
+
+    <Button
+        android:id="@+id/btnDoSomething"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:padding="4dp"
+        android:text=" Type something then click me! " />
+
+    <Button
+        android:id="@+id/btnDoItAgain"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:padding="4dp"
+        android:text=" Do it again! " />
+
+</LinearLayout>
+    

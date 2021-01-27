@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cis493.demos"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+7-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:7:5-8:16
+8        android:minSdkVersion="29"
+8-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:7:15-41
+9        android:targetSdkVersion="29" >
+9-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:7:5-8:16
+10    </uses-sdk>
+11
+12    <application
+12-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:10:5-33:19
+13        android:icon="@drawable/icon"
+13-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:11:9-38
+14        android:label="@string/app_name" >
+14-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:12:9-41
+15        <activity
+15-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:14:9-22:20
+16            android:name="cis493.demos.MyServiceDriver2"
+16-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:15:13-45
+17            android:label="@string/app_name" >
+17-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:16:13-45
+18            <intent-filter>
+18-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:17:13-21:29
+19                <action android:name="android.intent.action.MAIN" />
+19-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:18:17-69
+19-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:18:25-66
+20
+21                <category android:name="android.intent.category.LAUNCHER" />
+21-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:20:17-77
+21-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:20:27-74
+22            </intent-filter>
+23        </activity>
+24
+25        <service android:name="cis493.demos.MyService2" >
+25-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:24:9-25:19
+25-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:24:18-43
+26        </service>
+27
+28        <receiver android:name="cis493.demos.MyBroadcastReceiver" >
+28-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:27:9-31:20
+28-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:27:19-53
+29            <intent-filter>
+29-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:28:13-30:29
+30                <action android:name="matos.action.GOSERVICE2" />
+30-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:29:17-66
+30-->C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupC\22-MyService-21\app\src\main\AndroidManifest.xml:29:25-63
+31            </intent-filter>
+32        </receiver>
+33    </application>
+34
+35</manifest>

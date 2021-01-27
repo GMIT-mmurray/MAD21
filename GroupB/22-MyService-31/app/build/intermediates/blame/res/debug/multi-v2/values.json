@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\22-MyService-31\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\22-MyService-31\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "114,55",
+                        "endColumns": "47,58",
+                        "endOffsets": "157,109"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,103",
+                        "endColumns": "47,58",
+                        "endOffsets": "98,157"
+                    }
+                }
+            ]
+        }
+    ]
+}
