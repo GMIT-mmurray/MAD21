@@ -24,8 +24,8 @@ public class MainActivity extends Activity {
 		// ex04_ActionGetContent_Pictures();
 		// ex05_ActionViewContacts();
 		// ex06_ActionEditContacts();
-		 ex07_ActionViewWebPage();
-		// ex08_ActionViewMapsLandmarks();
+		// ex07_ActionViewWebPage();
+		 ex08_ActionViewMapsLandmarks();
 		// ex09_ActionViewMapsCoordinates();
 		// ex10_ActionViewMapsDirections();
 		// ex11_ActionViewMapsStreetView();
@@ -112,7 +112,7 @@ public class MainActivity extends Activity {
 
 	private void ex08_ActionViewMapsLandmarks() {
 		// (you may get multiple results)
-		String thePlace = "Cleveland State University, Ohio";
+		String thePlace = "GMIT, Ireland";
 		Intent intent = new Intent(android.content.Intent.ACTION_VIEW,
 				Uri.parse("geo:0,0?q=(" + thePlace + ")"));
 		startActivity(intent);
@@ -120,10 +120,9 @@ public class MainActivity extends Activity {
 	}
 
 	private void ex07_ActionViewWebPage() {
-		String myUriString = "https://www.youtube.com/results?search_query=ping pong";
+		String myUriString = "https://www.youtube.com/results?search_query=GMIT";
 
-		Intent myActivity2 = new Intent(Intent.ACTION_VIEW,
-				Uri.parse(myUriString));
+		Intent myActivity2 = new Intent(Intent.ACTION_VIEW,Uri.parse(myUriString));
 		startActivity(myActivity2);
 
 	}
@@ -172,7 +171,7 @@ public class MainActivity extends Activity {
 
 		Intent intent = new Intent(Intent.ACTION_WEB_SEARCH);
 
-		intent.putExtra(SearchManager.QUERY, "straight hitting golf clubs");
+		intent.putExtra(SearchManager.QUERY, "GMIT");
 
 		startActivity(intent);
 
@@ -192,8 +191,7 @@ public class MainActivity extends Activity {
 	private void ex01B_ActionDial() {
 
 		String myPhoneNumberUri = "tel:555-1234";
-		Intent myActivity2 = new Intent(Intent.ACTION_DIAL,
-				Uri.parse(myPhoneNumberUri));
+		Intent myActivity2 = new Intent(Intent.ACTION_DIAL,Uri.parse(myPhoneNumberUri));
 		startActivity(myActivity2);
 
 	}

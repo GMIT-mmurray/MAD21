@@ -4,14 +4,14 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_intent_demo3">IntentDemo3</string>
-    <string name="activity1">Activity1</string>
-    <string name="data_to_be_sent_to_subactivity">Data to be sent to SubActivity:</string>
-    <string name="call_activity2">Call Activity2</string>
-    <string name="data_returned_by_activity2">Data returned by Activity2</string>
     <string name="activity2">Activity2</string>
     <string name="data_received_from_activity1">Data Received from Activity1 ...</string>
     <string name="callback_activity1">CallBack Activity1</string>
     <string name="spy_data_received_from_activity1">(SPY) Data Received from Activity1 ...</string>
+    <string name="activity1">Activity1</string>
+    <string name="data_to_be_sent_to_subactivity">Data to be sent to SubActivity:</string>
+    <string name="call_activity2">Call Activity2</string>
+    <string name="data_returned_by_activity2">Data returned by Activity2</string>
 
     <!-- General purpose colors for Holo-themed elements -->
     <eat-comment />

@@ -144,6 +144,7 @@ layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
 menu main1
+string activity1
 string app_name
 string hello_world
 string menu_settings

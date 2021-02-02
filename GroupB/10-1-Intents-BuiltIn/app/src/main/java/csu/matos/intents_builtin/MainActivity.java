@@ -28,10 +28,10 @@ public class MainActivity extends Activity {
 		// ex08_ActionViewMapsLandmarks();
 		// ex09_ActionViewMapsCoordinates();
 		// ex10_ActionViewMapsDirections();
-		// ex11_ActionViewMapsStreetView();
+		 ex11_ActionViewMapsStreetView();
 		// ex12_ActionMusicPlayer();
 		// ex13_ActionViewMusicSD();
-		ex14_ActionSendSMS();
+		// ex14_ActionSendSMS();
 		// ex15_ActionMain();
 
 	}
@@ -148,8 +148,7 @@ public class MainActivity extends Activity {
 	// --------------------------------------------------------------
 
 	private void ex03_ActionSendTo() {
-		Intent intent = new Intent(Intent.ACTION_SENDTO,
-				Uri.parse("smsto:123456"));
+		Intent intent = new Intent(Intent.ACTION_SENDTO,Uri.parse("smsto:123456"));
 
 		intent.putExtra("sms_body", "are we playing golf next Sunday?");
 
@@ -182,8 +181,7 @@ public class MainActivity extends Activity {
 	private void ex01A_ActionCall() {
 
 		String myPhoneNumberUri = "tel:555-1234";
-		Intent myActivity2 = new Intent(Intent.ACTION_CALL,
-				Uri.parse(myPhoneNumberUri));
+		Intent myActivity2 = new Intent(Intent.ACTION_CALL,Uri.parse(myPhoneNumberUri));
 		startActivity(myActivity2);
 
 	}
@@ -192,8 +190,7 @@ public class MainActivity extends Activity {
 	private void ex01B_ActionDial() {
 
 		String myPhoneNumberUri = "tel:555-1234";
-		Intent myActivity2 = new Intent(Intent.ACTION_DIAL,
-				Uri.parse(myPhoneNumberUri));
+		Intent myActivity2 = new Intent(Intent.ACTION_DIAL,Uri.parse(myPhoneNumberUri));
 		startActivity(myActivity2);
 
 	}

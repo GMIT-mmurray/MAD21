@@ -8,7 +8,7 @@ public class Person implements Serializable {
 	private String lastName;
 	
 	public Person(String firstName, String lastName) {
-		//super();
+		super();
 		this.firstName = firstName;
 		this.lastName = lastName;
 	}

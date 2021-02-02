@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/10-1-Intents-BuiltIn.iml" filepath="$PROJECT_DIR$/10-1-Intents-BuiltIn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/10-1-Intents-BuiltIn.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/10-1-Intents-BuiltIn.app.iml" />
     </modules>
   </component>
 </project>

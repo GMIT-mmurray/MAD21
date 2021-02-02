@@ -29,7 +29,6 @@ public class Activity1 extends Activity {
         
         btnAdd = (Button) findViewById(R.id.btnAdd);
         btnAdd.setOnClickListener(new OnClickListener() {
-			
 			@Override
 			public void onClick(View v) {
 				// get values from the UI

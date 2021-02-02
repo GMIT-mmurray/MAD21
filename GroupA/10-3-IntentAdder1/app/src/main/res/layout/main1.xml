@@ -8,7 +8,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:background="#ff0000ff"
-        android:text="Activity1"
+        android:text="@string/activity1"
         android:textColor="#ffffffff"
         android:textSize="30sp" />
 

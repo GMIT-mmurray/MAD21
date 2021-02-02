@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:1-43:12
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:1-43:12
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\5e6c966e41283eb28599ac75ae8916f4\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\7ba19d4c13a915d31338854ea04490b4\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\bc3876738bdb5d8e498d8c27630d1092\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
@@ -29,27 +29,27 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\mmurray\.gradle\ca
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\855199d21a2457dffd94f776f414402b\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\0c580ad6917269345b415f2689381fa7\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\32c3c3c1ff1572cd4fbf4adc8b2e281b\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:1-43:12
 	package
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:3:5-40
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:7:5-8:40
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:7:5-8:40
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:7:5-8:40
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:7:5-8:40
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:7:5-8:40
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:7:5-8:40
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\5e6c966e41283eb28599ac75ae8916f4\support-v4-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\5e6c966e41283eb28599ac75ae8916f4\support-v4-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\7ba19d4c13a915d31338854ea04490b4\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
@@ -100,52 +100,52 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mmurray\.gradl
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\0c580ad6917269345b415f2689381fa7\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\32c3c3c1ff1572cd4fbf4adc8b2e281b\runtime-1.1.1\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\32c3c3c1ff1572cd4fbf4adc8b2e281b\runtime-1.1.1\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:7:5-8:40
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:7:5-8:40
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:7:5-8:40
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:7:5-8:40
 	android:targetSdkVersion
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:8:8-37
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:8:8-37
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:7:5-8:40
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:7:5-8:40
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.CALL_PHONE
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:10:5-69
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:10:5-69
 	android:name
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:10:22-66
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:10:22-66
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:11:5-67
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:11:22-64
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:11:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:12:5-81
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:12:5-81
 	android:name
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:12:22-78
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:12:22-78
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:13:5-81
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:13:22-78
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:13:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:14:5-79
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:14:5-79
 	android:name
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:14:22-76
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:14:22-76
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:15:5-98
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:15:5-98
 	android:name
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:15:22-95
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:15:22-95
 uses-permission#csu.matos.intents_builtin.permission.MAPS_RECEIVE
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:16:5-89
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:16:5-89
 	android:name
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:16:22-86
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:16:22-86
 permission#csu.matos.intents_builtin.permission.MAPS_RECEIVE
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:18:5-20:47
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:18:5-20:47
 	android:protectionLevel
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:20:9-44
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:20:9-44
 	android:name
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:19:9-73
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:19:9-73
 application
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:23:5-41:19
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:23:5-41:19
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\b73d0db3c489aeab8b531c92b0313ef9\support-compat-28.0.0\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\b73d0db3c489aeab8b531c92b0313ef9\support-compat-28.0.0\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\b93ddaf99704c9896c23344bb8a6cc5b\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
@@ -153,32 +153,32 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mmurray\.g
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\b73d0db3c489aeab8b531c92b0313ef9\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:26:9-41
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:26:9-41
 	android:icon
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:25:9-45
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:25:9-45
 	android:allowBackup
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:24:9-35
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:24:9-35
 	android:theme
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:27:9-40
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:27:9-40
 meta-data#com.google.android.maps.v2.API_KEY
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:28:9-30:71
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:28:9-30:71
 	android:value
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:30:13-68
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:30:13-68
 	android:name
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:29:13-62
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:29:13-62
 activity#csu.matos.intents_builtin.MainActivity
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:32:9-40:20
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:32:9-40:20
 	android:label
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:34:13-45
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:34:13-45
 	android:name
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:33:13-66
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:33:13-66
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:35:13-39:29
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:35:13-39:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:36:17-69
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:36:25-66
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:38:17-77
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:38:17-77
 	android:name
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:38:27-74
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-1-Intents-BuiltIn\app\src\main\AndroidManifest.xml:38:27-74

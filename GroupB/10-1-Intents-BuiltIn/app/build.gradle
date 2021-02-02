@@ -7,8 +7,8 @@ android {
 
     defaultConfig {
         applicationId "csu.matos.intents_builtin"
-        minSdkVersion 28
-        targetSdkVersion 28
+        minSdkVersion 27
+        targetSdkVersion 27
     }
 
     buildTypes {
