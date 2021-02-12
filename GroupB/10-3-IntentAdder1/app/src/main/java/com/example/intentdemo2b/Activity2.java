@@ -46,7 +46,7 @@ public class Activity2 extends Activity implements OnClickListener{
 		setResult(Activity.RESULT_OK, myLocalIntent);
 		
 		// experiment: remove comment
-		 finish();
+		// finish();
 	
 	}//onCreate
 

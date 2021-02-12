@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\10-3-IntentAdder1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupB\\10-3-IntentAdder1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\10-3-IntentAdder1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupB\\10-3-IntentAdder1\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

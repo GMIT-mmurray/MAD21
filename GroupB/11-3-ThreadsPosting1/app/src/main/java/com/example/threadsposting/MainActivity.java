@@ -141,8 +141,8 @@ public class MainActivity extends Activity {
 					// change a global variable from here...
 					globalVar++;
 					// try: next two UI operations should NOT work
-					// Toast.makeText(getApplication(), "Hi ", 1).show();
-					// txtDataBox.setText("Hi ");
+					//Toast.makeText(getApplication(), "Hi ", 1).show();
+					//txtDataBox.setText("Hi ");
 
 					// wake up foregroundRunnable delegate to speak for you
 					myHandler.post(foregroundRunnable);

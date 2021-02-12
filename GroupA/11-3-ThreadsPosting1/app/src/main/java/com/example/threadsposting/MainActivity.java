@@ -121,7 +121,7 @@ public class MainActivity extends Activity {
 					btnDoItAgain.setEnabled(true);
 				}
 			} catch (Exception e) {
-				Log.e("<<foregroundTask>>", e.getMessage());
+				Log.i("<<foregroundTask>>", e.getMessage());
 			}
 		}
 	}; // foregroundTask
@@ -141,8 +141,8 @@ public class MainActivity extends Activity {
 					// change a global variable from here...
 					globalVar++;
 					// try: next two UI operations should NOT work
-					// Toast.makeText(getApplication(), "Hi ", 1).show();
-					// txtDataBox.setText("Hi ");
+					//Toast.makeText(getApplication(), "Hi ", 1).show();
+					//txtDataBox.setText("Hi ");
 
 					// wake up foregroundRunnable delegate to speak for you
 					myHandler.post(foregroundRunnable);

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_foreground">#d3d3d3</color>
+    <color name="divider_background">#ffffff</color>
+    <color name="result_foreground">#ff0000</color>
+    <dimen name="font_size">20dp</dimen>
+    <string name="app_name">Intent Filters and Activity Switching</string>
+    <string name="interest_rate_prompt">Interest rate:  </string>
+    <string name="loan_amount_prompt">Loan amount:  </string>
+    <string name="loan_calculator_app_name">Loan Calculator: Monthly Payments</string>
+    <string name="loan_period_prompt">Months:  </string>
+    <string name="monthly_payment_prompt">Monthly payment:  </string>
+    <string name="tabs_app_name">Tabbed Windows</string>
+    <string name="total_payments_prompt">Total payments:  </string>
+</resources>

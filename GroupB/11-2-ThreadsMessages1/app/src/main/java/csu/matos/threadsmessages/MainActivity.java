@@ -109,7 +109,7 @@ public class MainActivity extends Activity {
 						// if thread is still alive send the message
 						if (isRunning) {
 							handler.sendMessageAtTime(msg, 1000);
-							Log.e("Back-Worker", data);
+							Log.i("Back-Worker", data);
 						}
 					}
 				} catch (Throwable t) {
@@ -140,7 +140,7 @@ public class MainActivity extends Activity {
 						// if thread is still alive send the message
 						if (isRunning) {
 							handler.sendMessageAtTime(msg, 1000);
-							Log.e("Back-Worker", data);
+							Log.i("Back-Worker", data);
 						}
 					}
 				} catch (Throwable t) {
@@ -157,7 +157,7 @@ public class MainActivity extends Activity {
 
 	public void onStop() {
 		super.onStop();
-		//isRunning = false;
+		isRunning = false;
 	}// onStop
 }// class
 

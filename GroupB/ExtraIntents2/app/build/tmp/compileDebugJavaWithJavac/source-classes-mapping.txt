@@ -1,0 +1,6 @@
+com/coreservlets/intentfilter2/BuildConfig.java
+ com.coreservlets.intentfilter2.BuildConfig
+com/coreservlets/intentfilter2/IntentFilter2Activity.java
+ com.coreservlets.intentfilter2.IntentFilter2Activity
+com/coreservlets/intentfilter2/LoanBundler.java
+ com.coreservlets.intentfilter2.LoanBundler

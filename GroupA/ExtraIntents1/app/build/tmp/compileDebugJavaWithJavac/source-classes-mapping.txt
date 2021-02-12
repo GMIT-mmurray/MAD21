@@ -1,0 +1,14 @@
+com/coreservlets/intentfilter1/LoanUtils.java
+ com.coreservlets.intentfilter1.LoanUtils
+com/coreservlets/intentfilter1/BuildConfig.java
+ com.coreservlets.intentfilter1.BuildConfig
+com/coreservlets/intentfilter1/LoanCalculatorActivity.java
+ com.coreservlets.intentfilter1.LoanCalculatorActivity
+com/coreservlets/intentfilter1/PaymentInfo.java
+ com.coreservlets.intentfilter1.PaymentInfo
+com/coreservlets/intentfilter1/TabbedActivity.java
+ com.coreservlets.intentfilter1.TabbedActivity
+com/coreservlets/intentfilter1/IntentFilter1Activity.java
+ com.coreservlets.intentfilter1.IntentFilter1Activity
+com/coreservlets/intentfilter1/LoanBundler.java
+ com.coreservlets.intentfilter1.LoanBundler

@@ -81,7 +81,7 @@ public class MainActivity extends Activity {
 				Intent myActivity2 = new Intent(Intent.ACTION_PICK,
 												uriProvider[option]);
 				
-				Log.e(TAG, "Calling PICK=" + uriProvider[option] );
+				Log.i(TAG, "Calling PICK=" + uriProvider[option] );
 				
 				startActivityForResult(myActivity2, 222);
 				dismissKeyboard(v);
@@ -122,7 +122,7 @@ public class MainActivity extends Activity {
 					
 					Log.e(TAG, "Calling VIEW->");
 					Intent myAct3 = new Intent(Intent.ACTION_VIEW,
-							Uri.parse(returnedData));
+							Uri.parse( returnedData));
 					startActivity(myAct3);
 					
 				} else {

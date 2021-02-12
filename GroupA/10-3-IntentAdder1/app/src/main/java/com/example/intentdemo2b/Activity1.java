@@ -36,8 +36,7 @@ public class Activity1 extends Activity {
 				Double v2 = Double.parseDouble(txtValue2.getText().toString());
 				
 				// create intent to call Activity2
-				Intent myIntentA1A2 = new Intent (Activity1.this,
-												  Activity2.class);
+				Intent myIntentA1A2 = new Intent (Activity1.this,Activity2.class);
 				// create a Bundle (MAP) container to ship data
 				Bundle myDataBundle = new Bundle();
 				

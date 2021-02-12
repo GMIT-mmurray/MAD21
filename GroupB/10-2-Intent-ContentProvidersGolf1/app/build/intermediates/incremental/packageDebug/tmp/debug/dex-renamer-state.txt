@@ -1,7 +1,7 @@
-#Thu Jan 23 16:00:29 GMT 2020
-base.0=C\:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\10-2-Intent-ContentProvidersGolf1\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+#Thu Feb 04 12:45:58 GMT 2021
+base.0=C\:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupB\\10-2-Intent-ContentProvidersGolf1\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\10-2-Intent-ContentProvidersGolf1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.1=C\:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupB\\10-2-Intent-ContentProvidersGolf1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

@@ -53,7 +53,7 @@ public class Activity2 extends Activity {
         txtIncomingData.append("\n------------------------------ "
         		+ "\n Caller's ID: " + paramInt
         		+ "\n myString1:   " + paramString 
-        		+ "\n myDouble1:   " + Double.toString(paramDouble)
+        		+ "\n myDouble1:   " + paramDouble
         		+ "\n myIntArray1: " + Activity1.myConvertArray2String(paramArray)
         		+ "\n Person obj:  " + paramPerson.getFullName()
         	    );

@@ -1,42 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\11-2-ThreadsMessages1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\11-2-ThreadsMessages1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\11-2-ThreadsMessages1\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "92,151",
-                        "endColumns": "57,55",
-                        "endOffsets": "145,202"
-                    },
-                    "to": {
-                        "startLines": "10,11",
-                        "startColumns": "4,4",
-                        "startOffsets": "613,671",
-                        "endColumns": "57,55",
-                        "endOffsets": "666,722"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\11-2-ThreadsMessages1\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "4,3,5",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "112,58,166",
-                        "endColumns": "52,52,52",
-                        "endOffsets": "160,106,214"
-                    },
-                    "to": {
-                        "startLines": "50,51,52",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "3025,3078,3131",
-                        "endColumns": "52,52,52",
-                        "endOffsets": "3073,3126,3179"
-                    }
-                },
                 {
                     "source": "C:\\Users\\mmurray\\.gradle\\caches\\transforms-2\\files-2.1\\7ba19d4c13a915d31338854ea04490b4\\support-media-compat-28.0.0\\res\\values\\values.xml",
                     "from": {
@@ -52,6 +18,23 @@
                         "startOffsets": "248,337,466,2193,2246,2299,2352,2895,4024,4200,4322,4584,4779",
                         "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
                         "endOffsets": "332,403,534,2241,2294,2347,2400,2950,4085,4317,4378,4645,4841"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\11-2-ThreadsMessages1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "112,58,166",
+                        "endColumns": "52,52,52",
+                        "endOffsets": "160,106,214"
+                    },
+                    "to": {
+                        "startLines": "50,51,52",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3025,3078,3131",
+                        "endColumns": "52,52,52",
+                        "endOffsets": "3073,3126,3179"
                     }
                 },
                 {
@@ -74,6 +57,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\11-2-ThreadsMessages1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "54,61",
+                        "startColumns": "4,4",
+                        "startOffsets": "3255,3546",
+                        "endLines": "60,63",
+                        "endColumns": "12,12",
+                        "endOffsets": "3541,3701"
+                    }
+                },
+                {
                     "source": "C:\\Users\\mmurray\\.gradle\\caches\\transforms-2\\files-2.1\\b73d0db3c489aeab8b531c92b0313ef9\\support-compat-28.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178,6,13,56,88,125",
@@ -93,22 +95,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\MAD\\2020\\GroupB\\11-2-ThreadsMessages1\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\11-2-ThreadsMessages1\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "6,15",
+                        "startLines": "3,4",
                         "startColumns": "4,4",
-                        "startOffsets": "191,522",
-                        "endLines": "12,17",
-                        "endColumns": "12,12",
-                        "endOffsets": "481,679"
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
                     },
                     "to": {
-                        "startLines": "54,61",
+                        "startLines": "10,11",
                         "startColumns": "4,4",
-                        "startOffsets": "3255,3546",
-                        "endLines": "60,63",
-                        "endColumns": "12,12",
-                        "endOffsets": "3541,3701"
+                        "startOffsets": "613,671",
+                        "endColumns": "57,55",
+                        "endOffsets": "666,722"
                     }
                 }
             ]

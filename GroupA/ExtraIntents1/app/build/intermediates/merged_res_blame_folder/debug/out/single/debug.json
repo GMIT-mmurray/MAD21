@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calculator_black.png.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\src\\main\\res\\drawable\\calculator_black.png"
+    },
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calculator.xml.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\src\\main\\res\\drawable\\calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\build\\intermediates\\res\\merged\\debug\\layout_loan_payments.xml.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\src\\main\\res\\layout\\loan_payments.xml"
+    },
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calculator_white.png.flat",
+        "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\src\\main\\res\\drawable\\calculator_white.png"
+    }
+]

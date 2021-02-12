@@ -16,8 +16,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showWebPage(View view) {
-        Intent intent = new Intent(Intent.ACTION_VIEW,
-                Uri.parse("https://www.ebookfrenzy.com"));
+        Intent intent = new Intent(Intent.ACTION_VIEW,Uri.parse("http://www.rte.ie"));
 
         startActivity(intent);
     }

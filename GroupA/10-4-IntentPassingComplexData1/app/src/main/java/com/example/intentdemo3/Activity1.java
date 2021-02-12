@@ -44,8 +44,7 @@ public class Activity1 extends Activity {
 		public void onClick(View v) {
 			try {
 				// create an Intent to talk to Activity2
-				Intent myIntentA1A2 = new Intent(Activity1.this,
-												 Activity2.class);
+				Intent myIntentA1A2 = new Intent(Activity1.this,Activity2.class);
 
 				// prepare a Bundle and add the data pieces to be sent
 				Bundle myData = new Bundle();

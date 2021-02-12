@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\5e6c966e41283eb28599ac75ae8916f4\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\7ba19d4c13a915d31338854ea04490b4\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\bc3876738bdb5d8e498d8c27630d1092\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
@@ -29,27 +29,27 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\mmurray\.gradle\ca
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\855199d21a2457dffd94f776f414402b\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\0c580ad6917269345b415f2689381fa7\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\32c3c3c1ff1572cd4fbf4adc8b2e281b\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:7:5-8:40
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:7:5-8:40
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:7:5-8:40
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:7:5-8:40
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:7:5-8:40
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:7:5-8:40
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\5e6c966e41283eb28599ac75ae8916f4\support-v4-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\5e6c966e41283eb28599ac75ae8916f4\support-v4-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\7ba19d4c13a915d31338854ea04490b4\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
@@ -100,18 +100,18 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mmurray\.gradl
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\0c580ad6917269345b415f2689381fa7\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\32c3c3c1ff1572cd4fbf4adc8b2e281b\runtime-1.1.1\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\32c3c3c1ff1572cd4fbf4adc8b2e281b\runtime-1.1.1\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:7:5-8:40
-INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:7:5-8:40
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:7:5-8:40
+INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:7:5-8:40
 	android:targetSdkVersion
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:8:8-37
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:8:8-37
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:7:5-8:40
-		INJECTED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:7:5-8:40
+		INJECTED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:10:5-24:19
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:10:5-24:19
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\b73d0db3c489aeab8b531c92b0313ef9\support-compat-28.0.0\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\b73d0db3c489aeab8b531c92b0313ef9\support-compat-28.0.0\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\b93ddaf99704c9896c23344bb8a6cc5b\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
@@ -119,26 +119,26 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\mmurray\.g
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\mmurray\.gradle\caches\transforms-2\files-2.1\b73d0db3c489aeab8b531c92b0313ef9\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:13:9-41
 	android:icon
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:12:9-45
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:12:9-45
 	android:allowBackup
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:14:9-40
 activity#csu.matos.contentprovidersgolf.MainActivity
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:15:9-23:20
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:15:9-23:20
 	android:label
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:17:13-45
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:17:13-45
 	android:name
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:16:13-71
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:16:13-71
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\mmurray\OneDrive - GMIT\MAD\2020\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from C:\Users\mmurray\OneDrive - GMIT\Modules\Year 4\2020-21\CourseWork\MAD21\GroupB\10-2-Intent-ContentProvidersGolf1\app\src\main\AndroidManifest.xml:21:27-74

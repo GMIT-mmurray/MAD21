@@ -6,6 +6,7 @@ import android.os.Bundle;
 import java.net.URL;
 import android.net.Uri;
 import android.content.Intent;
+import android.util.Log;
 import android.webkit.WebView;
 
 public class MainActivity extends AppCompatActivity {
@@ -28,6 +29,9 @@ public class MainActivity extends AppCompatActivity {
             url = new URL(data.getScheme(),
                     data.getHost(),
                     data.getPath());
+            Log.i("Schema","is "+data.getScheme());
+            Log.i("Host","is "+data.getHost());
+            Log.i("Path","is"+data.getPath());
         } catch (Exception e) {
             e.printStackTrace();
         }

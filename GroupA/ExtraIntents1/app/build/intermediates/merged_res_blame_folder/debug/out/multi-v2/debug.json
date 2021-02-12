@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\src\\main\\res\\values\\dimensions.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "40",
+                        "endOffsets": "91"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "213",
+                        "endColumns": "40",
+                        "endOffsets": "249"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,6,5,3,7,8,4,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,346,274,130,422,489,217,569",
+                        "endColumns": "74,75,71,86,66,79,56,77",
+                        "endOffsets": "125,417,341,212,484,564,269,642"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "254,329,395,457,544,601,671,728",
+                        "endColumns": "74,65,61,86,56,69,56,67",
+                        "endOffsets": "324,390,452,539,596,666,723,791"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mmurray\\OneDrive - GMIT\\Modules\\Year 4\\2020-21\\CourseWork\\MAD21\\GroupA\\ExtraIntents1\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "99,152,205",
+                        "endColumns": "52,52,51",
+                        "endOffsets": "147,200,252"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,161",
+                        "endColumns": "52,52,51",
+                        "endOffsets": "103,156,208"
+                    }
+                }
+            ]
+        }
+    ]
+}
